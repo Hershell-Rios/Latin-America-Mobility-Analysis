@@ -27,3 +27,24 @@ Data analysis to assess the relationship between urban mobility and economic pro
 ├── S5_ladb_mobility_economy_project_student.ipynb  # Main analysis
 ├── ladb_mobility_economy_2024_clean.csv           # Processed dataset
 └── README.md 
+
+## 🌎 Ciudades Analizadas
+- Brasil: 9 ciudades (São Paulo, Río de Janeiro, Brasília, etc.)
+- Argentina: Buenos Aires
+- Colombia: Bogotá
+- México: Ciudad de México
+- Chile: Santiago
+- Perú: Lima
+- Uruguay: Montevideo
+
+## 🔍 Metodología
+1. Carga y exploración de datasets TomTom y OECD
+2. Limpieza y estandarización de datos
+3. Agregación por ciudad-año (promedios 2024)
+4. Unión de datos de tráfico y economía
+5. Visualización y análisis de patrones
+
+## 📊 Hallazgos Clave
+- No correlación directa entre PIB per cápita y congestión
+- Factores culturales y de gestión vial influyen más que economía
+- Ciudades densas requieren soluciones
